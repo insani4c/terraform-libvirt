@@ -1,7 +1,7 @@
 # terraform-libvirt
 Simple example of how to use Terraform with libvirt
 
-Blog post:
+Blog post: https://jmorano.moretrix.com/2022/03/terraform-and-libvirtd-nodes/
 
 # Set up the hypervisor
 The base OS used for the hypervisor in this example was Ubuntu Linux 20.4-LTS
