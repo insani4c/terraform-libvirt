@@ -10,5 +10,5 @@ provider "libvirt" {
   ## Configuration options
   # uri = "qemu:///system"
   #alias = "server2"
-  uri   = "qemu+ssh://root@192.168.1.1/system"
+  uri   = "qemu+ssh://root@10.49.42.23/system"
 }
