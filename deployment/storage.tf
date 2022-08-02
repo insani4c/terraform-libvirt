@@ -1,6 +1,6 @@
 # A pool for all cluster volumes
 resource "libvirt_pool" "default" {
-  name = "default"
+  name = "cluster_storage"
   type = "dir"
   path = "/data/vms/cluster_storage"
 }
